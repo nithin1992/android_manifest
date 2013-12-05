@@ -12,7 +12,7 @@
            remote="aosp"
            sync-j="4" />
 
-<project path="build" name="MrBaNkS/android_build" groups="pdk" remote="github" revision="kk" >
+  <project path="build" name="MrBaNkS/android_build" groups="pdk" remote="github" revision="kk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
