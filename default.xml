@@ -427,7 +427,7 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="vendor/banks" name="MrBaNkS/android_vendor_banks" remote="github" revision="kk" />
-  <project path="vendor/lge" name="DonkeyCoyote/proprietary_vendor_lge" remote="github" revision="android-4.4" />
+  <project path="vendor/lge" name="MrBaNkS/android_vendor_lge" remote="github" revision="kk" />
   
   <project path="manifest" name="MrBaNkS/android_manifest" remote="github" revision="kk" />
 
