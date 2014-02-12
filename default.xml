@@ -300,7 +300,7 @@
   <project path="packages/apps/Camera2" name="MrBaNkS/android_packages_apps_Camera2" remote="github" revision="kk" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
-  <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" />
+  <project path="packages/apps/Contacts" name="MrBaNkS/android_packages_apps_Contacts" remote="github" revision="kk" />
   <project path="packages/apps/ContactsCommon" name="MrBaNkS/android_packages_apps_ContactsCommon" remote="github" revision="kk" />
   <project path="packages/apps/DeskClock" name="MrBaNkS/android_packages_apps_DeskClock" remote="github" revision="kk" />
   <project path="packages/apps/Dialer" name="MrBaNkS/android_packages_apps_Dialer" remote="github" revision="kk" />
